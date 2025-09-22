@@ -1,3 +1,13 @@
+# Tenzies
+
+Implementation of Tenzies dice game writeen in React. 
+
+You can [play it online](https://capable-bienenstitch-73a611.netlify.app/)
+(hosted on Netlify)
+
+![Screenshot](./screenshot.png) 
+
+
 # Getting Started
 Install the dependencies and run the project
 ```
